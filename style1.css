@@ -1,1 +1,17 @@
-style1.css
+* {
+	font-family: Helvetica;
+	color: green;
+}
+
+a {
+	color: blue;
+}
+
+a:hover {
+	color: red;
+}
+
+footer {
+	background-color: #ccc;
+	padding: 16px;
+}
